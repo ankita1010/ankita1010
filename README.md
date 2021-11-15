@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ankitachakraborty](https://medium.com/@ankitachakraborty)
 
-- 💬 Ask me about **React, TypeScript, Redux vs Context and PWAs**
+- 💬 Ask me about **React, TypeScript, Redux and Composition, CSS Animations, Web Performance and PWAs**
 
 
 <h3 align="left">Connect with me:</h3>
