@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript, React (never ends), State Machines, Advanced CSS**
 
-- 📝 I regularly write articles on [https://medium.com/@ankitachakraborty](https://medium.com/@ankitachakraborty)
+- 📝 I regularly write articles on [https://ankitachakraborty.medium.com](https://ankitachakraborty.medium.com/)
 
 - 💬 Ask me about **React, TypeScript, Redux and Composition, CSS Animations, Web Performance and PWAs**
 
