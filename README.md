@@ -1,7 +1,9 @@
 <h1 align="center">Hola 👋 I'm Ankita</h1>
 <h3 align="center">I am a UI developer from Bangalore, India</h3>
 
-- 💼 I’m currently working with [Atlassian](https://www.atlassian.com/)
+- 💼 I’m currently working with [Atlassian](https://www.atlassian.com/) <img width="15" alt="mark-gradient-blue-atlassian" src="https://user-images.githubusercontent.com/45850634/158339806-4e59309b-5e2d-4c9d-b035-6e53879b5591.png">
+
+ 
 
 - 🌱 I’m currently learning **TypeScript, React, State Machines, Web Performance**
 
